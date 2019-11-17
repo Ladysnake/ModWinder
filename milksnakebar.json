@@ -1,0 +1,98 @@
+{
+  "ladysnake": [
+    {
+      "modid": "dissolution",
+      "curseid": 265729,
+      "name": "Dissolution",
+      "author": "Ladysnake",
+      "update_url": "https://raw.githubusercontent.com/Ladysnake/Dissolution/1.12.2/changelog.json"
+    },
+    {
+      "modid": "gaspunk",
+      "curseid": 286505,
+      "name": "Gaspunk",
+      "author": "Ladysnake",
+      "update_url": "https://raw.githubusercontent.com/Ladysnake/Gaspunk/master/changelog.json",
+      "dlcs": [
+        {
+          "modid": "gp_inhaler",
+          "curseid": 293583,
+          "name": "Gaspunk Inhaler",
+          "author": "UpcraftLP",
+          "update_url": "https://raw.githubusercontent.com/UpcraftLP/Gaspunk-Inhaler/master/versions.json"
+        }
+      ]
+    },
+    {
+      "modid": "lumen",
+      "curseid": 292908,
+      "name": "Lumen",
+      "author": "Ladysnake",
+      "update_url": "https://raw.githubusercontent.com/Ladysnake/Lumen/lumen/changelog.json"
+    }
+  ],
+  "others": [
+    {
+      "modid": "simpleundergroundbiomes",
+      "curseid": 299931,
+      "name": "Simple Underground Biomes",
+      "author": "Lemon",
+      "update_url": "https://raw.githubusercontent.com/Lemonszz/Simple-Underground-Biomes/master/update.json"
+    },
+    {
+      "modid": "totemexpansion",
+      "curseid": 291724,
+      "name": "Totem Expansion",
+      "author": "Lemon",
+      "update_url": "https://raw.githubusercontent.com/Lemonszz/Totem-Expansion/master/update.json"
+    },
+    {
+      "modid": "k9-mod",
+      "curseid": 295577,
+      "name": "Doctor Who - K9 Mod",
+      "author": "LotuxPunk",
+      "update_url": "https://raw.githubusercontent.com/LotuxPunk/K9/master/update.json"
+    },
+    {
+      "modid": "drpmedieval",
+      "curseid": 238326,
+      "name": "Dark Roleplay Medieval",
+      "author": "JTK222",
+      "update_url": "https://dark-roleplay.net/files/versions/drpmedieval/drpmedieval-universal.json"
+    },
+    {
+      "modid": "vt",
+      "curseid": 272637,
+      "name": "Vanilla Tweaks",
+      "author": "StrikerRocker",
+      "update_url": "https://raw.githubusercontent.com/StrikerRockers-Mods/VanillaTweaks/1.12/version.json"
+    },
+    {
+      "modid": "weeping-angels",
+      "curseid": 291249,
+      "name": "Doctor Who - Weeping Angels",
+      "author": "Sub",
+      "update_url": "https://raw.githubusercontent.com/SandedShoes/Weeping-Angels/master/update.json"
+    },
+    {
+      "modid": "candymod",
+      "curseid": 290844,
+      "name": "Candy World",
+      "author": "ochotonida",
+      "update_url": "https://raw.githubusercontent.com/ochotonida/candymod/master/update.json"
+    },
+    {
+      "modid": "deathmaps",
+      "curseid": 302681,
+      "name": "DeathMaps",
+      "author": "UpcraftLP",
+      "update_url": "https://raw.githubusercontent.com/GlassPane/DeathMaps/master/versions.json"
+    },
+    {
+      "modid": "btdc",
+      "curseid": 302686,
+      "name": "Better Deco",
+      "author": "Team Vision"
+    }
+  ]
+}
