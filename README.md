@@ -2,10 +2,6 @@
 
  This is a repository for ModWinder and other small things, mostly relating to Ladysnake projects.
 
-### NOTICE
-
- It appears at this time the installing process throws an exception. I will look into this, but for now ModWinder is not functional.
-
 ## ModWinder
 
  Simple project to bring back a dead mod
