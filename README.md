@@ -17,7 +17,7 @@
 
  Originally made by [Ladysnake](https://github.com/ladysnake)
 
- Edited LadyLib available for source building or jar downloading at [my fork of it](https://github.com/sschr15/LadyLib)
+ Edited LadyLib available for source building or jar downloading at ~~my fork of it~~ the official [LadyLib repository](https://github.com/Ladysnake/LadyLib/releases)! It does however require you to use the modwinder branch if you want the source code.
 
 ## Gaspunk
 
